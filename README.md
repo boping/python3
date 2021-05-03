@@ -1,5 +1,1 @@
-awesome-python3-webapp
-======================
-
-A python webapp tutorial.
-# python3
+first python3 webapp
